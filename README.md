@@ -1,6 +1,6 @@
 # fast-food
 
-Exploring Fast Food Data and Predicting Restaurants Based on Nutritional Content
+Exploring Fast Food Data and Predicting Restaurants via Nutritional Content
 
 ## Results
 
